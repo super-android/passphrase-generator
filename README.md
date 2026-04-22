@@ -26,7 +26,10 @@ A Windows desktop app for generating secure, memorable passphrases using the [EF
 
 ## Screenshots
 
-> _Add screenshots here once you have them — `![App screenshot](screenshots/dark.png)`_
+![Passphrase Generator](Screenshots/AppWorking-1.png)
+![KPop Demon Hunters Theme](Screenshots/AppWorking-1-kpdh.png)
+![Bulk 5](Screenshots/AppWorking-bulk5.png)
+![Bulk 10](Screenshots/AppWorking-bulk10.png)
 
 ---
 
@@ -43,7 +46,7 @@ A Windows desktop app for generating secure, memorable passphrases using the [EF
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/passphrase-generator.git
+git clone https://github.com/super-android/passphrase-generator.git
 cd passphrase-generator
 ```
 
